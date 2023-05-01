@@ -27,3 +27,5 @@ Some features are not yet implemented and may drastically affect the playability
 * Xbox One Controllers
 * DualShock 4
 * Backbone One
+* Razer Kishi
+* Joy-Cons (only supported on iPad as far as tests have confirmed)
