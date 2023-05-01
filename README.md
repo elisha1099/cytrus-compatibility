@@ -7,7 +7,7 @@ Some features are not yet implemented and may drastically affect the playability
 * 3DS Keyboard  
 * Mii Maker/Mii characters  
 
-The current list of known supported devices:
+### Known Supported Devices
 * iPhone 14 Pro (Max)
 * iPhone 14 (Plus)
 * iPhone 13 Pro (max)
@@ -20,3 +20,8 @@ The current list of known supported devices:
 * iPhone XS (Max)
 * iPad 10/8/9th Generation
 * iPad Pro 2018 and up
+
+### Known Supported Controllers
+* Xbox One Controllers
+* DualShock 4
+* Backbone One
