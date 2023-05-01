@@ -7,6 +7,8 @@ Some features are not yet implemented and may drastically affect the playability
 * 3DS Keyboard  
 * Mii Maker/Mii characters  
 
+## View the compatibility list [here](https://docs.google.com/spreadsheets/d/1zu2JyH3Ncz-GyWUZ8AM4POUDwJF0pvs4KWDhObIEp9M/edit?usp=sharing).
+
 ### Known Supported Devices
 * iPhone 14 Pro (Max)
 * iPhone 14 (Plus)
